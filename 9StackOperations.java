@@ -92,7 +92,7 @@ class DynamicLengthStack implements Stack {
 }
 
 // iv. Class Demonstrating Runtime Binding and Stack Operations
-public class StackOperations {
+public class 9StackOperations {
     public static void main(String[] args) {
         // Using FixedLengthStack through Interface reference
         Stack fixedStack = new FixedLengthStack(5);
