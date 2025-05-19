@@ -1,4 +1,4 @@
-public class Enumeration {
+public class 4aEnumeration {
 
     public enum DayOfWeek {
         SATURDAY,
