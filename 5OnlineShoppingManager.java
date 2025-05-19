@@ -1,6 +1,6 @@
 import java.util.Vector;
 
-public class 5bOnlineShoppingManager {
+public class 5OnlineShoppingManager {
     Vector<Product> list = new Vector<>();
 
     public void addEle(String name, int quantity, String type) {
