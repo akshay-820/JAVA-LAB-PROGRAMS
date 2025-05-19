@@ -3,7 +3,7 @@ import java.util.ArrayList;
 
 
 // Class to manage pharmacy operations
-public class Pharma {
+public class 7Pharma {
     ArrayList<Product> list = new ArrayList<>();
 
     // Add a new product
