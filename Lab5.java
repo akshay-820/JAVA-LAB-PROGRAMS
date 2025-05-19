@@ -32,16 +32,16 @@ public class OnlineShoppingManager {
         manager.remove("milk");
         manager.display();
     }
-}
 
-class Product {
-    String name;
-    int quantity;
-    String type;
+    public static class Product { // Changed Product1 to Product and made it static
+        String name;
+        int quantity;
+        String type;
 
-    Product(String name, int quantity, String type) {
-        this.name = name;
-        this.quantity = quantity;
-        this.type = type;
+        Product(String name, int quantity, String type) {
+            this.name = name;
+            this.quantity = quantity;
+            this.type = type;
+        }
     }
 }
