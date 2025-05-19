@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class tracker{
+public class 4btracker{
     public static void main(String[] args){
         int n=5;
         Scanner sc= new Scanner(System.in);
